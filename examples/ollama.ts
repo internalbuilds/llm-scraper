@@ -1,5 +1,5 @@
 import { chromium } from 'playwright'
-import { ollama } from 'ollama-ai-provider'
+import { ollama } from 'ollama-ai-provider-v2'
 import { z } from 'zod'
 import LLMScraper from './../src'
 
